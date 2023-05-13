@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-03T08:52:53(UTC +08:00)","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"permalink":"/66-HIKARI/记录组/Mac App 记录备份/","dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2023-03-03T08:52:53(UTC +08:00)","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":" 一些记录/Mac App 记录备份.md","permalink":"/ 一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
