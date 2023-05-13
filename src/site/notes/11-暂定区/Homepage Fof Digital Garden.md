@@ -16,5 +16,5 @@
 
 ![beb8c7fdgy1hds2kj1y89g20k00k0npr.gif](/img/user/Attached/Charlie/beb8c7fdgy1hds2kj1y89g20k00k0npr.gif)
 
-<div class="title" style="color:#8db3e2">A Secret Place<p><font size="7" color="#8db3e2">For Charlie Zhou And Me... ..</font></p></div>
+<div class="title" style="color:#8db3e2">A Secret Place<p><font size="7" color="#8db3e2">For Charlie Zhou And Me...</font></p></div>
 
