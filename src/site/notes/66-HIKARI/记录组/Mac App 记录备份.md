@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/66-HIKARI/记录组/Mac App 记录备份/","tags":["学习/App"],"created":"2023-03-03T16:18:37.000+08:00","updated":"2023-05-12T23:10:10.000+08:00"}
+{"dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","tags":["学习/App"],"created":"2023-03-03T16:18:37.000+08:00","updated":"2023-05-12T23:10:10.000+08:00"}
 ---
 
 
