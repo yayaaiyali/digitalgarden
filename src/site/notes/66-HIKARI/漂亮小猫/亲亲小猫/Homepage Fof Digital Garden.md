@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage Fof Digital Garden.md","permalink":"/Homepage Fof Digital Garden/","title":"Homepage","tags":["gardenEntry"],"created":"2023-05-13T22:29:59.622+08:00","updated":"2023-05-14T00:00:39.153+08:00"}
+{"dg-publish":true,"dg-path":"Homepage Fof Digital Garden.md","permalink":"/Homepage Fof Digital Garden/","title":"Homepage","tags":["gardenEntry"],"created":"2023-05-13T22:29:59.000+08:00","updated":"2023-05-14T00:00:39.000+08:00"}
 ---
 
 
