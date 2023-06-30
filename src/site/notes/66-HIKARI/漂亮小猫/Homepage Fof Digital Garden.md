@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage Fof Digital Garden.md","permalink":"/Homepage Fof Digital Garden/","title":"Homepage","tags":["gardenEntry"],"created":"2023-05-13T22:29:59.622+08:00","updated":"2023-06-30T19:53:25.360+08:00"}
+{"title":"Homepage","dg-home":true,"dg-publish":true,"dg-path":"Homepage Fof Digital Garden.md","permalink":"/Homepage Fof Digital Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-05-13T22:29:59.622+08:00","updated":"2023-06-30T20:30:46.287+08:00"}
 ---
 
 
-<div class="title" style="color:#8db3e2">A Secret Place<p><font size="7" color="#8db3e2">For Charlie Zhou And Me...</font></p></div>
-
+<div class="title" style="color:#8db3e2">A Secret Place<p><font size="7" color="#8db3e2">For Charlie Zhou </font></p></div>
+<div class="title" style="color:#8db3e2"><p><font size="7" color="#8db3e2"> <p align="right">And Me...</p></font></p></div>
 <br>
 
 ![678857afly1hdkdzif4bbj24112oohdz.jpg](/img/user/Attached/Charlie/678857afly1hdkdzif4bbj24112oohdz.jpg)
