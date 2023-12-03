@@ -1,5 +1,5 @@
 ---
-{"created":"2023-03-03T16:18:37.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2023-05-12T23:10:10.000+08:00"}
+{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2023-05-12T23:10:10.000+08:00"}
 ---
 
 
