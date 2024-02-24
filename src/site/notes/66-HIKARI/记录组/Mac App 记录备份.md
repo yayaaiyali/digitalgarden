@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2024-02-24T11:39:13.751+08:00"}
+{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2024-02-24T11:42:27.950+08:00"}
 ---
 
 
@@ -25,6 +25,7 @@
 - EPUB仅阅读 - Mac自带「图书」
 - OFFICE系阅读编辑 - **虚拟机office套件**、*WPS office*、在线阅读器如Google Drive
 ### 阅读辅助类
+- **Easydict**（以Bob为启发的开源）
 - Bob（开源版，划词/截图翻译、简易OCR、**朗读**）
 - utools里的「易翻翻译」插件
 
