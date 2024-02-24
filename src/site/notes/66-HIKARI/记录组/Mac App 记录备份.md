@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2023-05-12T23:10:10.000+08:00"}
+{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2024-02-24T11:39:13.751+08:00"}
 ---
 
 
@@ -50,7 +50,8 @@
 - handbrake 
 ### 图像编辑
 - PS（鹅滴神）
-	- Camera Raw（滤镜，感觉这个更好用）
+	- Camera Raw（推荐！可调色可磨皮，可当半个LR用，官方的免费好用）
+	- **TopazPhotoAI**（高清+磨皮，能外用也能当插件用，首次下载模型很花时间）
 	- Imagenomic Portraiture（磨皮滤镜）
 	- Imagenomic Noiseware（降噪滤镜）
 	- Nik Collection （滤镜组，不太会用）
@@ -61,5 +62,5 @@
 - Motrix（鹅滴神）
 - Downie（视频下载）
 ### 同步盘
-- 坚果云（虽然用了很长时间，最近觉得还不如Icloud包个6元50GB好用）
-- Icloud
+- Icloud（最终包了21r200G的方案）
+- ~~坚果云（虽然用了很长时间，最近觉得还不如Icloud包个6元50GB好用）~~
