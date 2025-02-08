@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2024-02-24T11:42:27.950+08:00"}
+{"created":"2023-05-12T23:10:10.000+08:00","tags":["学习/App"],"source":null,"aliases":"Mac app","author":"Tsubasa","dg-publish":true,"dg-path":"一些记录/Mac App 记录备份.md","permalink":"/一些记录/Mac App 记录备份/","dgPassFrontmatter":true,"updated":"2025-02-08T23:18:10.923+08:00"}
 ---
 
 
@@ -16,6 +16,7 @@
 - utools（alfred代替品，搜索、翻译、默记、取色、计算等功能用的多）
 - Amphetamine（防止睡眠）
 - Spectacle+1.2（系统自带分俩全屏，这个可以不全屏分四个，主要是免费）
+- eqmac 优化音效，但是费电。参考设置：![Pasted image 20250208231655.png](/img/user/Attached/Pasted%20image%2020250208231655.png)
 
 ### 文本编辑阅读类
 - MD编辑阅读 - Obsidian （偶滴神）
